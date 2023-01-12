@@ -11,7 +11,6 @@
  </h1>
 </div>
 
----
 
 ### :man_technologist: About Me :
 I am a Data Analyst from San Jose, CA.
