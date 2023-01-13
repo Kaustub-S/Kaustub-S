@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 <div id="badges" align="center">
  <h1>
   hey there
@@ -12,11 +8,11 @@
 
 ### :man_technologist: About Me :
 I am a Data Analyst from San Jose, CA.
-- :telescope: Currently working with Alum Rock Counseling Center to revitalize their data reporting solution
+- Currently working with Alum Rock Counseling Center to revitalize their data reporting solution
 
-- :zap: In my free time, I work on data projects to polish my Python, SQL, and Visualization skills.
+- In my free time, I work on data projects to polish my Python, SQL, and Visualization skills.
   
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KSekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubsekhar)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KSekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubsekhar) or kaustub.sekhar@sjsu.edu
 
 ---
 
