@@ -24,7 +24,6 @@ I am a Data Analyst from San Jose, CA.
   <img src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" title="DBricks" alt="DBricks" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" title="R"  alt="R" width="60" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" title="PBI"  alt="PBI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau"  alt="TBL" width="40" height="40"/>&nbsp;
 </div>
