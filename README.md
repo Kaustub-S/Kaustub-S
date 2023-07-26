@@ -12,7 +12,7 @@ I am a Data Analyst from San Jose, CA.
 
 - In my free time, I work on data projects to polish my Python, SQL, and Visualization skills.
   
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KSekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubsekhar) or kaustub.sekhar@sjsu.edu
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KSekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubsekhar) or ksfinance10@gmail.com
 
 ---
 
