@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me :
 I am a Data Analyst from San Jose, CA.
-- Currently working with Alum Rock Counseling Center to revitalize their data reporting solution
+- Recently delivered a revitalized data solution to Alum Rock Counseling Center for easy digestions of data for non-technical members.
 
 - In my free time, I work on data projects to polish my Python, SQL, and Visualization skills.
   
